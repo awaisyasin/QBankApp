@@ -43,31 +43,27 @@ When the user selects an option from the dropdown menu and enters an amount, the
 
 If the user selects "Last Deposit Amount", "Last Withdraw Amount", or "Current Amount" from the dropdown menu, the text box is disabled and the script displays the corresponding value in the LCD display.
 
-
+## Screenshots
 
 <div class="gallery">
   <figure>
     <a href="https://github.com/awaisyasin/qbank-app/blob/main/screenshots/QBankOne.PNG" target="_blank">
       <img src="https://github.com/awaisyasin/qbank-app/blob/main/screenshots/QBankOne.PNG" alt="QBankOne">
     </a>
-    <figcaption>QBankOne</figcaption>
   </figure>
   <figure>
     <a href="https://github.com/awaisyasin/qbank-app/blob/main/screenshots/QBankTwo.PNG" target="_blank">
       <img src="https://github.com/awaisyasin/qbank-app/blob/main/screenshots/QBankTwo.PNG" alt="QBankTwo">
     </a>
-    <figcaption>QBankTwo</figcaption>
   </figure>
   <figure>
     <a href="https://github.com/awaisyasin/qbank-app/blob/main/screenshots/QBankThree.PNG" target="_blank">
       <img src="https://github.com/awaisyasin/qbank-app/blob/main/screenshots/QBankThree.PNG" alt="QBankThree">
     </a>
-    <figcaption>QBankThree</figcaption>
   </figure>
   <figure>
     <a href="https://github.com/awaisyasin/qbank-app/blob/main/screenshots/QBankFour.PNG" target="_blank">
       <img src="https://github.com/awaisyasin/qbank-app/blob/main/screenshots/QBankFour.PNG" alt="QBankFour">
     </a>
-    <figcaption>QBankFour</figcaption>
   </figure>
 </div>
